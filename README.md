@@ -1,4 +1,4 @@
-# Data-Mining-Fina-Exam
+# Data-Mining-Final-Exam
 
 
 Link to codes and data: https://github.com/Nurullainy/Data-Mining-Final-Exam
