@@ -1,4 +1,4 @@
-# Data-Mining-Final-Exam
+# WQD 7005 Data-Mining-Final-Exam
 
 
 Name: Nurullainy binti Mat Rashid
