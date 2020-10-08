@@ -1,4 +1,4 @@
-# WQD 7005 Data Mining - Movie and TV Show Dataset
+# Data Mining - Movie and TV Show Dataset
 
 
 Name: Nurullainy binti Mat Rashid
